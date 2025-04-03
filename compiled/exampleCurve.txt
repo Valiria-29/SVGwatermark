@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <!-- Wave-like curves -->
+  <path d="M 50 150 C 100 50, 200 250, 250 150" stroke="blue" fill="transparent" stroke-width="2"/>
+  <path d="M 250 150 C 300 50, 400 250, 450 150" stroke="blue" fill="transparent" stroke-width="2"/>
+  <path d="M 450 150 C 500 50, 600 250, 650 150" stroke="blue" fill="transparent" stroke-width="2"/>
+
+  <!-- Loop shapes -->
+  <path d="M 100 300 C 150 200, 250 400, 300 300" stroke="green" fill="transparent" stroke-width="2"/>
+  <path d="M 300 300 C 350 200, 450 400, 500 300" stroke="green" fill="transparent" stroke-width="2"/>
+  <path d="M 500 300 C 550 200, 650 400, 700 300" stroke="green" fill="transparent" stroke-width="2"/>
+
+  <!-- Complex figure with multiple curves -->
+  <path d="M 50 450 C 100 350, 200 550, 250 450" stroke="red" fill="transparent" stroke-width="2"/>
+  <path d="M 250 450 C 300 350, 400 550, 450 450" stroke="red" fill="transparent" stroke-width="2"/>
+  <path d="M 450 450 C 500 350, 600 550, 650 450" stroke="red" fill="transparent" stroke-width="2"/>
+  <path d="M 650 450 C 700 350, 750 550, 800 450" stroke="red" fill="transparent" stroke-width="2"/>
+
+  <!-- Spiral-like shape -->
+  <path d="M 400 100 C 450 50, 500 150, 550 100" stroke="purple" fill="transparent" stroke-width="2"/>
+  <path d="M 550 100 C 600 50, 650 150, 700 100" stroke="purple" fill="transparent" stroke-width="2"/>
+  <path d="M 700 100 C 750 50, 800 150, 850 100" stroke="purple" fill="transparent" stroke-width="2" transform="translate(-300, 0)"/>
+
+  <!-- Zigzag pattern -->
+  <path d="M 50 500 C 100 400, 150 600, 200 500" stroke="orange" fill="transparent" stroke-width="2"/>
+  <path d="M 200 500 C 250 400, 300 600, 350 500" stroke="orange" fill="transparent" stroke-width="2"/>
+  <path d="M 350 500 C 400 400, 450 600, 500 500" stroke="orange" fill="transparent" stroke-width="2"/>
+</svg>

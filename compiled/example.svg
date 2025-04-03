@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <path d="M 50 150 C 87.5 75, 153.125004 168.750002, 204.6875 178.125, 221.875003 181.250001, 237.5 175, 250 150" stroke="blue" fill="transparent" stroke-width="2"/>
+  <path d="M 250 150 C 262.5 125, 278.125005 118.750006, 295.3125 121.875, 346.875002 131.25, 412.5 225, 450 150" stroke="blue" fill="transparent" stroke-width="2"/>
+  <path d="M 450 150 C 487.5 75, 553.125004 168.750007, 604.6875 178.125, 621.875005 181.250009, 637.5 175, 650 150" stroke="blue" fill="transparent" stroke-width="2"/>
+  <path d="M 100 300 C 137.5 225, 203.125004 318.75, 254.6875 328.125, 271.875003 331.250007, 287.5 325, 300 300" stroke="green" fill="transparent" stroke-width="2"/>
+  <path d="M 300 300 C 337.5 225, 403.125004 318.750004, 454.6875 328.125, 471.875006 331.250001, 487.5 325, 500 300" stroke="green" fill="transparent" stroke-width="2"/>
+  <path d="M 500 300 C 512.5 275, 528.125007 268.750008, 545.3125 271.875, 596.875001 281.250005, 662.5 375, 700 300" stroke="green" fill="transparent" stroke-width="2"/>
+  <path d="M 50 450 C 87.5 375, 153.125004 468.750007, 204.6875 478.125, 221.875006 481.250004, 237.5 475, 250 450" stroke="red" fill="transparent" stroke-width="2"/>
+  <path d="M 250 450 C 262.5 425, 278.125008 418.750004, 295.3125 421.875, 346.875001 431.250005, 412.5 525, 450 450" stroke="red" fill="transparent" stroke-width="2"/>
+  <path d="M 450 450 C 487.5 375, 553.125003 468.750009, 604.6875 478.125, 621.875007 481.250004, 637.5 475, 650 450" stroke="red" fill="transparent" stroke-width="2"/>
+  <path d="M 650 450 C 662.5 425, 675.000007 418.750009, 687.5 421.875, 725.000008 431.250007, 762.5 525, 800 450" stroke="red" fill="transparent" stroke-width="2"/>
+  <path d="M 400 100 C 437.5 62.5, 475.000001 109.375, 512.5 114.0625, 525.000005 115.625009, 537.5 112.5, 550 100" stroke="purple" fill="transparent" stroke-width="2"/>
+  <path d="M 550 100 C 587.5 62.5, 625.000003 109.375008, 662.5 114.0625, 675.000002 115.625005, 687.5 112.5, 700 100" stroke="purple" fill="transparent" stroke-width="2"/>
+  <path d="M 700 100 C 750 50, 800 150, 850 100" stroke="purple" fill="transparent" stroke-width="2" transform="translate(-300, 0)"/>
+  <path d="M 50 500 C 100 400, 150 600, 200 500" stroke="orange" fill="transparent" stroke-width="2"/>
+  <path d="M 200 500 C 250 400, 300 600, 350 500" stroke="orange" fill="transparent" stroke-width="2"/>
+  <path d="M 350 500 C 400 400, 450 600, 500 500" stroke="orange" fill="transparent" stroke-width="2"/>
+</svg>
